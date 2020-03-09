@@ -11,7 +11,7 @@ Agenda
 
 * 18:00 - Pizza and refreshments
 * 18:30 - A Brief History of Containers - Richard Horridge
-* 19:15 - Say Yes! to K8s and Docker - Matt Todd
+* 19:15 - Say Yes! to K8s in Docker - Matt Todd
 * 20:00 - Pub - Head of Steam!
 
 
